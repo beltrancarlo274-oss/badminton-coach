@@ -1,0 +1,17 @@
+{
+  "name": "AxelZen Badminton Training",
+  "short_name": "AxelZen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b100e",
+  "theme_color": "#101713",
+  "description": "Free offline badminton training companion",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
